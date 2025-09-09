@@ -74,5 +74,3 @@ AimbotTab:AddToggle({
         getgenv().AimCamera = state
     end
 })
-
-OrionLib:Init()
